@@ -51,7 +51,7 @@ Entry Level Data Analyst, Business Analyst, Systems Analyst roles.
 | PACCAR | Summer 2026 Intern / AfterSales Data Analyst | Kirkland | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-8932416577808136382?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis--8932416577808136382) |
 | Safran companies | Commodity & Data Analyst Intern | Florida | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/4771020850957204300?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis-4771020850957204300) |
 
-### [View all 47827+ Analysis Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-data---business-analysis)
+### [View all 47946+ Analysis Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-data---business-analysis)
 
 <a id='software-engineering'></a>
 ## 💻 Software Engineering
@@ -62,7 +62,6 @@ New Grad Software Engineer (SWE), Backend, Full Stack.
 | :--- | :--- | :--- | :--- | :--- |
 | Feedinkoo | Summer Software Engineer Intern — Scale the Marketplace | New York | 1 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-2389973454607377498?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering--2389973454607377498) |
 | GrabJobs | Remote Software Engineer Intern - Platform & DevOps | United States | 1 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-834040751135267446?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering--834040751135267446) |
-| RSA Security USA LLC | Software Engineer Intern: Cloud & Identity Platform | Burlington | 1 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-6567314892698066772?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering--6567314892698066772) |
 | Feedinkoo | Summer Software Engineer Intern for Life-Saving Healthcare | New York | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-5219361960951065821?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering--5219361960951065821) |
 | GrabJobs | Remote Software Engineer Intern - Product & Backend | United States | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/1840980599451266448?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-1840980599451266448) |
 | Laminar | IoT Software Engineer Intern - Summer 2026 (Cleantech) | Somerville | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/8066289037025534820?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-8066289037025534820) |
@@ -80,6 +79,7 @@ New Grad Software Engineer (SWE), Backend, Full Stack.
 | SAP SE | SAP SuccessFactors iXp Intern - AI Software Engineer (SUMMER 2026) | Palo Alto | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-5427881603679490497?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering--5427881603679490497) |
 | 6AM City, LLC | Software Engineer Intern, Mobile iOS (Summer 2026) | California | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-8366257099120954622?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering--8366257099120954622) |
 | Integrated Resources | Software Research Engineer | Santa Clara | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/3246860067489567618?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-3246860067489567618) |
+| ThirdLayer, Inc. | Software Engineer Intern: Build & Ship End-to-End UX | San Francisco | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-5147447560682192509?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering--5147447560682192509) |
 
 ### [View all 99210+ Engineering Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-software-engineering)
 
@@ -111,7 +111,7 @@ IT Support Specialist, Help Desk, Technical Support.
 | eTrepid Inc | Internship - Network Engineer | Mechanicsville | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-3805488138768460283?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-it-support---helpdesk--3805488138768460283) |
 | Clutch Canada | Global End-User IT Support Intern | Austin | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-1943829255817920338?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-it-support---helpdesk--1943829255817920338) |
 
-### [View all 74739+ Helpdesk Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-it-support---helpdesk)
+### [View all 74653+ Helpdesk Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-it-support---helpdesk)
 
 <a id='web-development---design'></a>
 ## 🌐 Web Development & Design
@@ -125,8 +125,8 @@ Frontend Developer, UI/UX Designer, Web Dev.
 | Bridge-it | Remote Frontend Engineer Internship (Unpaid) - BridgeIt | Truckee | 1 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-6165192036015415110?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design--6165192036015415110) |
 | Tribonet | Materials Science Intern: Shape Engine & Energy Systems | Park Ridge | 1 days ago | [⚡View & Apply](https://us.fitly.work/job-details/2594543106227538971?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design-2594543106227538971) |
 | Kier & Wright Civil Engineers and Surveyors | Renewable Engineering Intern: Solar & Storage Projects | Austin | 1 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-1822884291665256268?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design--1822884291665256268) |
-| Kroger Great Lakes Distribution Center | Retail Marketing & Analytics Intern | Conroe | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-6685372823127555561?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design--6685372823127555561) |
 | Longfellow Investment Management | ESG & Sustainable Investing Summer Intern | Boston | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/4427176670057969560?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design-4427176670057969560) |
+| Kroger Great Lakes Distribution Center | Retail Marketing & Analytics Intern | Conroe | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-6685372823127555561?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design--6685372823127555561) |
 | Feedinkoo | Summer Full-Stack Developer Intern — Remote, $23/hr | New York | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-4191450500702381229?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design--4191450500702381229) |
 | Digisperts | Remote Frontend Developer Intern - Build Real Projects | New York | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-7233664259185145736?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design--7233664259185145736) |
 | bondex app | Junior Frontend Developer at bondex app Remote | New York | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/4817991996039118235?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design-4817991996039118235) |
@@ -141,7 +141,7 @@ Frontend Developer, UI/UX Designer, Web Dev.
 | Bridge-it | Remote Frontend Engineer Intern - AI SaaS UI | Truckee | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/1888875773551259269?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design-1888875773551259269) |
 | Griswold Industries dba Cla-Val | Summer Business Internship: Cross-Department Exposure | Costa Mesa | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/1931262520648138063?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design-1931262520648138063) |
 
-### [View all 39361+ Design Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-web-development---design)
+### [View all 39490+ Design Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-web-development---design)
 
 <a id='product---project-management'></a>
 ## 🚀 Product & Project Management
@@ -171,7 +171,7 @@ Associate Product Manager (APM), Project Coordinator.
 | 慨正橡扯 | Associate Product Manager, Payments | Atlanta | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-6821606610352722117?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-product---project-management--6821606610352722117) |
 | Towards AI, Inc. | Product Manager Internship, AI Ops (Summer) | Austin | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-3324379627806858691?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-product---project-management--3324379627806858691) |
 
-### [View all 52228+ Management Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-product---project-management)
+### [View all 52285+ Management Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-product---project-management)
 
 ---
 
