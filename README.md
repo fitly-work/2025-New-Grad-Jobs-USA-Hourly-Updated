@@ -40,18 +40,18 @@ Entry Level Data Analyst, Business Analyst, Systems Analyst roles.
 | Virtual Vocations Inc | Associate Data Analyst | United States | 1 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-4396676751708689740?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis--4396676751708689740) |
 | Hantz Group | Data Analyst - Intern | Tecumseh | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/6402240513479237134?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis-6402240513479237134) |
 | Great American Insurance Company | Data Reporting Analyst | Cincinnati | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/8226864182022872243?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis-8226864182022872243) |
-| Carroll Daniel | DATA AND REPORTING ANALYST | Gainesville | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-4448518748855131847?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis--4448518748855131847) |
 | Save the Children | Data Analyst | Fairfield | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/284312683625488900?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis-284312683625488900) |
+| Carroll Daniel | DATA AND REPORTING ANALYST | Gainesville | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-4448518748855131847?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis--4448518748855131847) |
 | The Boston Foundation | Data Analyst - Intern | Boston | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-2014573034457032708?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis--2014573034457032708) |
 | Colorado Railroad Museum | Data Analyst | Lehi | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/2058936401830775972?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis-2058936401830775972) |
 | Bridges Consumer Healthcare | Data Analyst | Chattanooga | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/2538695261947479504?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis-2538695261947479504) |
-| Freddie Mac | Single Family Data Analyst | McLean | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-8641659932959693590?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis--8641659932959693590) |
 | Socket | Business & Data Analyst | Omaha | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/1282182508732633778?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis-1282182508732633778) |
+| Freddie Mac | Single Family Data Analyst | McLean | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-8641659932959693590?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis--8641659932959693590) |
 | Socket.dev | Data Analyst | Camarillo | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/520860875978127680?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis-520860875978127680) |
 | Bio-Techne | Senior Data Analyst - AI, Operations & Supply Chain | Minneapolis | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-7987963909245657783?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis--7987963909245657783) |
 | Signet Jewelers | Data Analyst, Central Merchandise Operations | Akron | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-8040482496338837218?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis--8040482496338837218) |
 
-### [View all 35481+ Analysis Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-data---business-analysis)
+### [View all 35533+ Analysis Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-data---business-analysis)
 
 <a id='software-engineering'></a>
 ## 💻 Software Engineering
@@ -67,7 +67,7 @@ New Grad Software Engineer (SWE), Backend, Full Stack.
 | Open Roles | Software Engineer Intern - Summer 2027 | New York | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/5432564496396379909?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-5432564496396379909) |
 | Research Institutes of Sweden | Software Engineer | Brockport | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/7601191287932319195?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-7601191287932319195) |
 | Feedinkoo | Software Engineer - Intern | New York | 2 days ago | [⚡View & Apply](https://us.fitly.work/job-details/2715371761227054429?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-2715371761227054429) |
-| Ginkgo Bioworks | Software Engineer - Intern | Emeryville | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-4429214736414720006?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering--4429214736414720006) |
+| Ginkgo Bioworks | Software Engineer | Emeryville | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-5395162617111104626?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering--5395162617111104626) |
 | Wheaton | Software Engineer Intern - Remote, Mentored & Impactful | California | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/2108192957684170274?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-2108192957684170274) |
 | Goliath Partners LP | Founding Software Engineer | San Francisco | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/1277669096751229596?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-1277669096751229596) |
 | Latent AI | Software Engineer Intern - Internal Apps & Data Platforms | Austin | 3 days ago | [⚡View & Apply](https://us.fitly.work/job-details/2237945297772425797?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-2237945297772425797) |
@@ -81,7 +81,7 @@ New Grad Software Engineer (SWE), Backend, Full Stack.
 | Parsec Education Inc | Junior Software Engineer Intern | Fresno | 4 days ago | [⚡View & Apply](https://us.fitly.work/job-details/9216361367534731807?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-9216361367534731807) |
 | Turing | Remote Senior Software Engineer | San Francisco | 4 days ago | [⚡View & Apply](https://us.fitly.work/job-details/7819763073148793987?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-7819763073148793987) |
 
-### [View all 69772+ Engineering Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-software-engineering)
+### [View all 69697+ Engineering Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-software-engineering)
 
 <a id='it-support---helpdesk'></a>
 ## 🛠 IT Support & Helpdesk
@@ -111,7 +111,7 @@ IT Support Specialist, Help Desk, Technical Support.
 | USI Holdings Corporation | IT Intern | Milpitas | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-4752370764307057367?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-it-support---helpdesk--4752370764307057367) |
 | Pinnacle Technology Solutions | Systems Administrator Intern - Summer 2026 | Fort Wayne | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-6332640937406517564?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-it-support---helpdesk--6332640937406517564) |
 
-### [View all 54556+ Helpdesk Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-it-support---helpdesk)
+### [View all 54602+ Helpdesk Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-it-support---helpdesk)
 
 <a id='web-development---design'></a>
 ## 🌐 Web Development & Design
@@ -141,7 +141,7 @@ Frontend Developer, UI/UX Designer, Web Dev.
 | Doppelmayr | Summer Internships: Engineering, Construction & Accounting | Salt Lake City | 4 days ago | [⚡View & Apply](https://us.fitly.work/job-details/3629779341867394361?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design-3629779341867394361) |
 | Enterprise | Summer 2027 Management Trainee Internship | Spartanburg | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/8257858983400505806?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design-8257858983400505806) |
 
-### [View all 32339+ Design Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-web-development---design)
+### [View all 32383+ Design Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-web-development---design)
 
 <a id='product---project-management'></a>
 ## 🚀 Product & Project Management
@@ -171,7 +171,7 @@ Associate Product Manager (APM), Project Coordinator.
 | United States Digital Space LLC | Product Manager (Dashboard) | Royal Oak | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-346770142889797831?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-product---project-management--346770142889797831) |
 | London Stock Exchange Group | Associate Product Manager, Fixed Income | Buffalo | 7 days ago | [⚡View & Apply](https://us.fitly.work/job-details/8826197802488835316?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-product---project-management-8826197802488835316) |
 
-### [View all 43440+ Management Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-product---project-management)
+### [View all 43596+ Management Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-product---project-management)
 
 ---
 
