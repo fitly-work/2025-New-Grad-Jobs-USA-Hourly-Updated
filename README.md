@@ -51,7 +51,7 @@ Entry Level Data Analyst, Business Analyst, Systems Analyst roles.
 | Binance | Binance Acceleration Program - Product Data Analyst | Remote | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-6179284654967986625?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis--6179284654967986625) |
 | Binance | Binance Acceleration Program - Product Data Analyst | Remote | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/7476203317019083089?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-data---business-analysis-7476203317019083089) |
 
-### [View all 73931+ Analysis Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-data---business-analysis)
+### [View all 74044+ Analysis Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-data---business-analysis)
 
 <a id='software-engineering'></a>
 ## 💻 Software Engineering
@@ -81,7 +81,7 @@ New Grad Software Engineer (SWE), Backend, Full Stack.
 | Feedinkoo | Remote Android Software Engineer Intern - Fintech Impact | New York | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-6605164028307172705?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering--6605164028307172705) |
 | PlusAI | Robotics Software Engineer Intern - ROS2, HIL & DDS | Santa Clara | 5 days ago | [⚡View & Apply](https://us.fitly.work/job-details/2307216937026712919?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-software-engineering-2307216937026712919) |
 
-### [View all 121073+ Engineering Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-software-engineering)
+### [View all 121225+ Engineering Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-software-engineering)
 
 <a id='it-support---helpdesk'></a>
 ## 🛠 IT Support & Helpdesk
@@ -141,7 +141,7 @@ Frontend Developer, UI/UX Designer, Web Dev.
 | Doppelmayr | Summer Internships: Engineering, Construction & Accounting | Salt Lake City | 4 days ago | [⚡View & Apply](https://us.fitly.work/job-details/3629779341867394361?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design-3629779341867394361) |
 | BPM | Intern | San Diego | 4 days ago | [⚡View & Apply](https://us.fitly.work/job-details/-526113448837034885?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=apply-web-development---design--526113448837034885) |
 
-### [View all 57746+ Design Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-web-development---design)
+### [View all 57815+ Design Jobs on Fitly](https://us.fitly.work/jobs?utm_source=github&utm_medium=readme&utm_campaign=2025-new-grad-jobs-usa-hourly-updated&utm_content=cta-web-development---design)
 
 <a id='product---project-management'></a>
 ## 🚀 Product & Project Management
